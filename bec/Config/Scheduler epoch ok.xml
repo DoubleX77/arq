@@ -1,0 +1,549 @@
+﻿<?xml version="1.0"?>
+<!-- GENERATED AUTOMATICALLY BY VERT HOSTING -->
+<Scheduler>
+    <job id='0'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000200</runtime>
+<loop>-1</loop>
+<cmd>say -1 horários de restart: 1:00, 4:00, 7:00, 10:00, 13:00, 16:00, 19:00, 22:00</cmd>
+</job>
+ 
+<job id='1'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000210</runtime>
+<loop>-1</loop>
+<cmd>say -1 Fique atento aos horários de restart</cmd>
+</job>
+ 
+<!-- 01:00 AM restart -->
+<job id='2'>
+<day>1,2,3,4,5,6,7</day>
+<start>00:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='3'>
+<day>1,2,3,4,5,6,7</day>
+<start>00:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='4'>
+<day>1,2,3,4,5,6,7</day>
+<start>00:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='5'>
+<day>1,2,3,4,5,6,7</day>
+<start>00:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minuto</cmd>    
+</job>
+
+<job id='6'>
+<day>1,2,3,4,5,6,7</day>
+<start>00:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+     
+<job id='7'>
+<day>1,2,3,4,5,6,7</day>
+<start>01:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>  
+</job>
+<!-- End 01:00 AM restart -->
+
+<!-- 04:00 AM restart -->
+<job id='8'>
+<day>1,2,3,4,5,6,7</day>
+<start>03:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Server Restart in 30 minutes</cmd>    
+</job>
+    
+<job id='9'>
+<day>1,2,3,4,5,6,7</day>
+<start>03:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='10'>
+<day>1,2,3,4,5,6,7</day>
+<start>03:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='11'>
+<day>1,2,3,4,5,6,7</day>
+<start>03:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minuto</cmd>    
+</job>
+
+<job id='12'>
+<day>1,2,3,4,5,6,7</day>
+<start>03:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='13'>
+<day>1,2,3,4,5,6,7</day>
+<start>04:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>    
+</job>
+<!-- End 0:00 AM restart -->
+
+<!-- 07:00 AM restart -->
+<job id='14'>
+<day>1,2,3,4,5,6,7</day>
+<start>06:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='15'>
+<day>1,2,3,4,5,6,7</day>
+<start>06:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='16'>
+<day>1,2,3,4,5,6,7</day>
+<start>06:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='17'>
+<day>1,2,3,4,5,6,7</day>
+<start>06:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minuto</cmd>    
+</job>
+
+<job id='18'>
+<day>1,2,3,4,5,6,7</day>
+<start>06:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='19'>
+<day>1,2,3,4,5,6,7</day>
+<start>07:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>   
+</job>
+<!-- End 09:00 AM restart -->
+
+<!-- 10:00 PM restart -->
+<job id='20'>
+<day>1,2,3,4,5,6,7</day>
+<start>09:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='21'>
+<day>1,2,3,4,5,6,7</day>
+<start>09:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='22'>
+<day>1,2,3,4,5,6,7</day>
+<start>09:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='23'>
+<day>1,2,3,4,5,6,7</day>
+<start>09:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minuto</cmd>    
+</job>
+
+<job id='24'>
+<day>1,2,3,4,5,6,7</day>
+<start>09:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='25'>
+<day>1,2,3,4,5,6,7</day>
+<start>10:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>   
+</job>
+<!-- End 10:00 PM restart -->
+
+<!-- 13:00 PM restart -->
+<job id='26'>
+<day>1,2,3,4,5,6,7</day>
+<start>12:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='27'>
+<day>1,2,3,4,5,6,7</day>
+<start>12:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='28'>
+<day>1,2,3,4,5,6,7</day>
+<start>12:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='29'>
+<day>1,2,3,4,5,6,7</day>
+<start>12:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minuto</cmd>    
+</job>
+
+<job id='30'>
+<day>1,2,3,4,5,6,7</day>
+<start>12:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='31'>
+<day>1,2,3,4,5,6,7</day>
+<start>13:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>   
+</job>
+<!-- End 12:00 PM restart -->
+    
+<!-- 16:00 PM restart -->
+<job id='32'>
+<day>1,2,3,4,5,6,7</day>
+<start>15:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='33'>
+<day>1,2,3,4,5,6,7</day>
+<start>15:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='34'>
+<day>1,2,3,4,5,6,7</day>
+<start>15:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='35'>
+<day>1,2,3,4,5,6,7</day>
+<start>20:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minutos</cmd>    
+</job>
+
+<job id='36'>
+<day>1,2,3,4,5,6,7</day>
+<start>15:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='37'>
+<day>1,2,3,4,5,6,7</day>
+<start>16:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>    
+</job>
+<!-- End 09:00 PM restart -->
+
+ <job id='38'>
+<day>1,2,3,4,5,6,7</day>
+<start>000180</start>
+<runtime>000200</runtime>
+<loop>-1</loop>
+<cmd>say -1 www.clantnt.com.br</cmd>
+</job>
+
+ <job id='39'>
+<day>1,2,3,4,5,6,7</day>
+<start>000190</start>
+<runtime>000200</runtime>
+<loop>-1</loop>
+<cmd>say -1 TS3: 200.174.160.130 senha: tstnt</cmd>
+</job>
+
+ <job id='40'>
+<day>1,2,3,4,5,6,7</day>
+<start>000200</start>
+<runtime>000210</runtime>
+<loop>-1</loop>
+<cmd>say -1 É proibido bugar bases, se for pego será banido.</cmd>
+</job>
+
+ <job id='41'>
+<day>1,2,3,4,5,6,7</day>
+<start>000250</start>
+<runtime>000250</runtime>
+<loop>-1</loop>
+<cmd>say -1 Bem vindos </cmd>
+</job>
+
+<job id='42'>
+<day>1,2,3,4,5,6,7</day>
+<start>001400</start>
+<runtime>001400</runtime>
+<loop>-1</loop>
+<cmd>say -1 Limpando os logs </cmd>
+</job>
+
+<job id='43'>
+<day>1,2,3,4,5,6,7</day>
+<start>001400</start>
+<runtime>001400</runtime>
+<loop>-1</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\BEC\log-rotator.cmd</cmd>
+</job>
+
+<job id='44'>
+<day>1,2,3,4,5,6,7</day>
+<start>000260</start>
+<runtime>000260</runtime>
+<loop>-1</loop>
+<cmd>say -</cmd>
+</job>
+
+<job id='45'>
+<day>1,2,3,4,5,6,7</day>
+<start>000270</start>
+<runtime>000270</runtime>
+<loop>-1</loop>
+<cmd>say -</cmd>
+</job>
+
+<!-- 19:00 PM restart -->
+<job id='46'>
+<day>1,2,3,4,5,6,7</day>
+<start>18:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='47'>
+<day>1,2,3,4,5,6,7</day>
+<start>18:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='48'>
+<day>1,2,3,4,5,6,7</day>
+<start>18:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='49'>
+<day>1,2,3,4,5,6,7</day>
+<start>18:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minutos</cmd>    
+</job>
+
+<job id='50'>
+<day>1,2,3,4,5,6,7</day>
+<start>18:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='51'>
+<day>1,2,3,4,5,6,7</day>
+<start>19:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>    
+</job>
+<!-- End 09:00 PM restart -->
+
+<!-- 16:00 PM restart -->
+<job id='52'>
+<day>1,2,3,4,5,6,7</day>
+<start>21:30:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 30 minutos</cmd>    
+</job>
+    
+<job id='53'>
+<day>1,2,3,4,5,6,7</day>
+<start>21:50:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 10 minutos</cmd>    
+</job>
+    
+<job id='54'>
+<day>1,2,3,4,5,6,7</day>
+<start>21:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 5 minutos, Deslogue agora</cmd>    
+</job>
+    
+<job id='55'>
+<day>1,2,3,4,5,6,7</day>
+<start>21:59:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 O servidor vai reiniciar em 1 minutos</cmd>    
+</job>
+
+<job id='56'>
+<day>1,2,3,4,5,6,7</day>
+<start>21:59:55</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>say -1 Servidor reiniciando agora!</cmd>
+</job>
+    
+<job id='57'>
+<day>1,2,3,4,5,6,7</day>
+<start>22:00:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>D:\bohemia\Games\ArmA3\A3Master\stop.cmd</cmd>    
+</job>
+<!-- End 09:00 PM restart -->
+
+<!-- Lock 5 minutos antes -->
+<job id='58'>
+<day>1,2,3,4,5,6,7</day>
+<start>00:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='59'>
+<day>1,2,3,4,5,6,7</day>
+<start>03:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='60'>
+<day>1,2,3,4,5,6,7</day>
+<start>06:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='61'>
+<day>1,2,3,4,5,6,7</day>
+<start>09:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='62'>
+<day>1,2,3,4,5,6,7</day>
+<start>12:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='63'>
+<day>1,2,3,4,5,6,7</day>
+<start>15:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='64'>
+<day>1,2,3,4,5,6,7</day>
+<start>18:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+<job id='65'>
+<day>1,2,3,4,5,6,7</day>
+<start>21:55:00</start>
+<runtime>000000</runtime>
+<loop>0</loop>
+<cmd>#lock</cmd>
+</job>
+
+</Scheduler>

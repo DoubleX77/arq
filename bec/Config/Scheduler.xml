@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<!-- GENERATED AUTOMATICALLY BY VERT HOSTING -->
+<Scheduler>
+    <job id='0'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000200</runtime>
+<loop>-1</loop>
+<cmd>say -1 www.clantnt.com.br</cmd>
+</job>
+ 
+<job id='1'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000210</runtime>
+<loop>-1</loop>
+<cmd>say -1 ts: 200.174.160.132 senha: tstnt</cmd>
+</job>
+ 
+ <job id='2'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000220</runtime>
+<loop>-1</loop>
+<cmd>say -1 Somente primeira pessoa</cmd>
+</job>
+
+ <job id='3'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000230</runtime>
+<loop>-1</loop>
+<cmd>say -1 Proibido base rape</cmd>
+</job>
+
+ <job id='4'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000240</runtime>
+<loop>-1</loop>
+<cmd>say -1 Proibido recrutar no servidor</cmd>
+</job>
+
+ <job id='5'>
+<day>1,2,3,4,5,6,7</day>
+<start>000100</start>
+<runtime>000240</runtime>
+<loop>-1</loop>
+<cmd>say -1 Recrutamento ((+N+)) aberto</cmd>
+</job>
+
+</Scheduler>
